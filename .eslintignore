@@ -4,3 +4,6 @@ config/*
 src/assets/iconfont.js
 node_modules/*
 webpack**
+src
+.eslintrc
+
